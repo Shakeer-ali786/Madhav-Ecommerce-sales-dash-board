@@ -29,4 +29,5 @@ Data on madhav sales store around the india, including datails on their location
 . And one slice to show the Quater, states.
 
 # Screenshoot / Demo
-Link :
+Link :(https://github.com/Shakeer-ali786/Madhav-Ecommerce-sales-dash-board/blob/main/Madhav%20sales.png) 
+
