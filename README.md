@@ -30,4 +30,6 @@ Data on madhav sales store around the india, including datails on their location
 
 # Screenshoot / Demo
 Link :(https://github.com/Shakeer-ali786/Madhav-Ecommerce-sales-dash-board/blob/main/Madhav%20sales.png) 
+Dashboard link : (https://github.com/Shakeer-ali786/Madhav-Ecommerce-sales-dash-board/blob/main/Madhav%20ecommerce%20sales%20dash%20board.pbit)  
+
 
